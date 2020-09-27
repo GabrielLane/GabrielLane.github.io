@@ -17,7 +17,10 @@ p {
   font-family: arial;
   background-color: #36b3a8;
   height: 20px;
-  Margin: 15px;
+ margin-top: 20px;
+margin-right: 20px;
+margin-bottom: 20px;
+margin-left: 20px;
   text-decoration: none;
   text-transform: Italic;
   padding: 15px 20px;
