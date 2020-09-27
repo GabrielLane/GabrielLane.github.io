@@ -24,3 +24,17 @@ p {
   border-radius: 20px;
 }
 /* I'm very surprised that this came out nearly as well as it did. I would probably play with it later but there's little time left... I hope this satisfies all of the requirements! I think it did. Thanks! */
+a:link {
+  color: #FF0000;
+}
+
+a:visited {
+  color: #00FF00;
+}
+a:hover {
+  color: #FF00FF;
+}
+a:active {
+  color: #0000FF;
+}
+/*had to style the links which I forgot about first time around */
